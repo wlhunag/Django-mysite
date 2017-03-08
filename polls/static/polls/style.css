@@ -1,0 +1,7 @@
+li a{
+    color: darkgreen;
+}
+
+body{
+    background: white  url('earth-globe.svg') repeat-y bottom ;
+}
